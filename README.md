@@ -71,4 +71,5 @@ This dashboard helps in understanding business performance in a simple way. It s
 ---
 
 ## 🙋‍♂️ Author
-Your Name
+Atharv Magdum
+
